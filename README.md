@@ -1,0 +1,2 @@
+# dashinfer_demo
+魔搭CPU大模型推理引擎dashinfer的测试实战代码
